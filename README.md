@@ -1,4 +1,6 @@
+![1_okbBhXU2x0f_eFyUVyc-gA](https://github.com/khaekelvin/khaekelvin/assets/130221570/83800bf2-a979-467f-a796-8c4f744c551b)
 <h1 align="center">Hi 👋, I'm Kelvin</h1>
+
 <h3 align="center">My name is Kelvin, and I'm an aspiring web designer currently studying at a University. With a passion for design and an eye for detail.</h3>
 
 
