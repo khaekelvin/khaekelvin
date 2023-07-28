@@ -15,6 +15,6 @@
 </br>
 
 <div>
-<p><img  height=190px align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaekelvin&show_icons=true&locale=en&layout=compact" alt="khaekelvin" /><img align="right" height=190px src="https://github-readme-streak-stats.herokuapp.com/?user=khaekelvin&" alt="khaekelvin" /></p>
+<p><img width=350px height=190px align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaekelvin&show_icons=true&locale=en&layout=compact" alt="khaekelvin" /><img width=400px align="right" height=190px src="https://github-readme-streak-stats.herokuapp.com/?user=khaekelvin&" alt="khaekelvin" /></p>
 </div>
 
