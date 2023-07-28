@@ -15,8 +15,6 @@
 </br>
 
 <div>
-<p><img height=190px align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaekelvin&show_icons=true&locale=en&layout=compact" alt="khaekelvin" /><img align="right" height=190px src="https://github-readme-streak-stats.herokuapp.com/?user=khaekelvin&" alt="khaekelvin" /></p>
+<p><img  height=190px align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaekelvin&show_icons=true&locale=en&layout=compact" alt="khaekelvin" /><img align="right" height=190px src="https://github-readme-streak-stats.herokuapp.com/?user=khaekelvin&" alt="khaekelvin" /></p>
 </div>
-
-<img width=1030px height=400px align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
