@@ -1,5 +1,5 @@
 <h1 align="left">👋 Kelvin Duobu</h1>
-<h3  align="left">My name is Kelvin, and I'm a web developer and UI/UX designer currently studying at a University. With a passion for design and an eye for detail.</h3>
+<h3  align="left">I'm a digital creator with a focus on building modern web and mobile experiences. I combine skills in UI/UX design, web and mobile development, brand design, and video editing to craft impactful digital products from idea to launch.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
